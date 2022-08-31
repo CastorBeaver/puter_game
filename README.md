@@ -1,2 +1,2 @@
-# puter_game
-Current project I'm working on, made for school. Only really on github for discord ppl to check out and for version control
+# puter_game (FINISHED)
+shitty little 2d game, just here for version control
